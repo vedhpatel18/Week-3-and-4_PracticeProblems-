@@ -1,6 +1,7 @@
 /* 
 @author Vedh
  */
+
 import java.util.Scanner;
 public class DivisibleByFive {
     public static void main(String[] args) {
